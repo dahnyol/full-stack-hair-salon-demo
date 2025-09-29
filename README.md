@@ -1,1 +1,1 @@
-using node, express, typescript
+using node, express, typescript connected to a mongodb with mongoose
